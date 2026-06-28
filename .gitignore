@@ -1,0 +1,43 @@
+# Python virtual environment
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Jupyter temporary folders
+.ipynb_checkpoints/
+__pycache__/
+
+# C++ build files
+*.o
+*.out
+*.exe
+main
+hello
+epsilon
+plots
+vec_test
+multiprocessing
+input_output
+mc_A
+mc_B
+mc_C
+integration_A
+integration_B
+integration_C
+ode_A
+ode_B
+ode_C
+spline_A
+spline_B
+spline_C
+decay_fit
+evd_test
+hydrogen
+
+# generated data/output files
+*.data
+Out*.txt
+out*.txt
+err
+log*
