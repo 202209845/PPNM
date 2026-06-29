@@ -1,0 +1,3 @@
+quantity,value
+max |x(alpha -> 0) - y|,3.699707207260872e-12
+max |x(alpha -> infinity) - linear fit|,0.00023655051639281943
